@@ -10,5 +10,5 @@ Python: Python3.5+(have installed necessary dependencies)
 Step1:
 pip install -r requirements.txt
 Step2:
-run "python Game3.py"
+run "python Jigsaw-puzzle.py"
 ```
